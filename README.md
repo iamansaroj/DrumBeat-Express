@@ -19,10 +19,6 @@ Use your keyboard's keys or mouse clicks to produce drum sounds.
 
 Experiment with different key combinations for unique rhythms.
 Mix short and long beats for dynamic patterns.
-# Record and Share:
 
-Capture your session by clicking "Record," then "Stop Recording" when done.
-Hit "Play" to relive your beats.
-Click "Share" to generate a shareable link for friends or social media.
 # Unleash Your Inner Drummer with DrumBeat Express!
 Whether you're a seasoned percussionist or just starting your rhythmic journey, DrumBeat Express is your gateway to crafting infectious beats. Let the rhythm take over!
